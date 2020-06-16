@@ -1,3 +1,4 @@
-word-config:
-  luckyWord: "Serendipitous"
-  preamble: "The luckiest word is :" 
+---
+wordConfig:
+  preamble: The lucky word is
+  luckyWord: Irish
